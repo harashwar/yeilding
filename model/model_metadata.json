@@ -1,0 +1,6 @@
+{
+    "rf_r2": 0.916635,
+    "rf_mae": 12268.365046,
+    "model_name": "Random Forest Regressor (3 Features)",
+    "last_trained": "2026-03-17"
+}
